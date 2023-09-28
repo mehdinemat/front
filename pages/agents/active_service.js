@@ -180,7 +180,6 @@ const ActiveService = () => {
                       {
                         serviceData?.map((item) => (
 
-
                           <tr>
                             <td class="px-12 py-4 text-sm font-medium whitespace-nowrap">
                             <div>
